@@ -1,5 +1,5 @@
 # mclog-x
-The logging system. Uses the standard java.util.Logger
+The nice console system. Uses the standard java.util.Logger
 
 ### Example
 ```java
